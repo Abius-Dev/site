@@ -207,7 +207,7 @@
 <!-- Лицензия -->
 ## Лицензия проекта
 
-Находится под лицензией <!-- Лучше всего GPL-3, но выбирать по ситуации -->. Смотрите `LICENSE.txt` для большего количества информации.
+Находится под лицензией GNU GPL-2. Смотрите `LICENSE.txt` для большего количества информации.
 
 <p align="right">(<a href="#top">Наверх</a>)</p>
 
@@ -244,14 +244,14 @@
 
 <!-- Ссылки и изображения из этого файла -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Abius-Dev/site.svg?style=for-the-badge
-[contributors-url]: https://github.com/Abius-Dev/site/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Abius-Dev/site.svg?style=for-the-badge
-[forks-url]: https://github.com/Abius-Dev/site/network/members
-[stars-shield]: https://img.shields.io/github/stars/Abius-Dev/site.svg?style=for-the-badge
-[stars-url]: https://github.com/Abius-Dev/site/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Abius-Dev/site.svg?style=for-the-badge
-[issues-url]: https://github.com/Abius-Dev/site/issues
-[license-shield]: https://img.shields.io/github/license/Abius-Dev/site.svg?style=for-the-badge
-[license-url]: https://github.com/Abius-Dev/site/blob/master/LICENSE.txt
-[product-screenshot]: .github/774853bd-a746-4362-9c05-190055132169.url-0001.PNG
+[contributors-shield]: https://img.shields.io/github/contributors/abius-dev/site.svg?style=for-the-badge
+[contributors-url]: https://github.com/abius-dev/site/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/abius-dev/site.svg?style=for-the-badge
+[forks-url]: https://github.com/abius-dev/site/network/members
+[stars-shield]: https://img.shields.io/github/stars/abius-dev/site.svg?style=for-the-badge
+[stars-url]: https://github.com/abius-dev/site/stargazers
+[issues-shield]: https://img.shields.io/github/issues/abius-dev/site.svg?style=for-the-badge
+[issues-url]: https://github.com/abius-dev/site/issues
+[license-shield]: https://img.shields.io/github/license/abius-dev/site.svg?style=for-the-badge
+[license-url]: https://github.com/abius-dev/site/blob/master/LICENSE
+[product-screenshot]: images/screenshot.png
